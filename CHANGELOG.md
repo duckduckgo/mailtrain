@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.23.2 2021-11-25
+
+  * Disable tracking by default when creating campaigns
+
 ## 1.23.2 2017-04-04
 
   * Allow skipping DNS check for imports
